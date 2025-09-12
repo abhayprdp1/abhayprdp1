@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-two-azure-62.vercel.app/](https://my-portfolio-two-azure-62.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://pabhay.netlify.app/](https://pabhay.netlify.app/)
 
 - 💬 Ask me about **React,Html,Css,Node js**
 

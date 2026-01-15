@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABHAY P</h1>
-<h3 align="center">WEB DEVELOPER</h3>
+<h3 align="center">Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayprdp1&label=Profile%20views&color=0e75b6&style=flat" alt="abhayprdp1" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pabhay.netlify.app/](https://pabhay.netlify.app/)
 
-- 💬 Ask me about **React,Html,Css,Node js**
+- 💬 Ask me about **Python,React,Html,Css,Node js**
 
 - 📫 How to reach me **abhayprdp1@gmail.com**
 
